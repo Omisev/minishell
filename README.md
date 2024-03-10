@@ -6,7 +6,7 @@
 
 ##
 <div align="center">
-  <img src="[URL_TO_MINISHELL_SCREENSHOT](https://github.com/Omisev/minishell/blob/main/README.md)" alt="Capture d'écran de minishell">
+  <img src="https://github.com/Omisev/minishell/blob/main/Capture_minishell.png" alt="Capture d'écran de minishell">
 </div>
 
 ## Description
