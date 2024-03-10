@@ -27,8 +27,11 @@ Ce projet a pour but de créer une version simplifiée du shell Unix. Cela inclu
 
 ## Installation et Compilation
 git clone git@github.com:Omisev/minishell.git
+
 cd minishell
+
 make
+
 ./minishell
 
 ## Utilisation
