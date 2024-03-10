@@ -26,9 +26,10 @@ Ce projet a pour but de créer une version simplifiée du shell Unix. Cela inclu
 | `minishell.h`        | Fichier d'en-tête contenant les déclarations et les macros               | Déclarations                                     | Complet   |
 
 ## Installation et Compilation
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone git@github.com:Omisev/minishell.git
 cd minishell
 make
+./minishell
 
 ## Utilisation
 
